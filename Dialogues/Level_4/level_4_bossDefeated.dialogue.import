@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_11"
+type="Resource"
+uid="uid://lg1qon7p84fw"
+path="res://.godot/imported/level_4_bossDefeated.dialogue-9a66d945b91c38361dae68545508b2b7.tres"
+
+[deps]
+
+source_file="res://Dialogues/Level_4/level_4_bossDefeated.dialogue"
+dest_files=["res://.godot/imported/level_4_bossDefeated.dialogue-9a66d945b91c38361dae68545508b2b7.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_11"
+type="Resource"
+uid="uid://ckpfjs4s2c4fu"
+path="res://.godot/imported/keyPickup.dialogue-a605d8f5046e64b969c39f628749cc29.tres"
+
+[deps]
+
+source_file="res://Dialogues/Interactions/keyPickup.dialogue"
+dest_files=["res://.godot/imported/keyPickup.dialogue-a605d8f5046e64b969c39f628749cc29.tres"]
+
+[params]
+
+defaults=true

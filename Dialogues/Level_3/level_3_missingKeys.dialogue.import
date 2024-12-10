@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_11"
+type="Resource"
+uid="uid://ckvthnh8udjo"
+path="res://.godot/imported/level_3_missingKeys.dialogue-b95774d6e2801547853d1bd6fdb87b0e.tres"
+
+[deps]
+
+source_file="res://Dialogues/Level_3/level_3_missingKeys.dialogue"
+dest_files=["res://.godot/imported/level_3_missingKeys.dialogue-b95774d6e2801547853d1bd6fdb87b0e.tres"]
+
+[params]
+
+defaults=true

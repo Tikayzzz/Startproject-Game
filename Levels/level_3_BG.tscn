@@ -1,0 +1,30 @@
+[gd_scene load_steps=3 format=3 uid="uid://bp16s8rx3j01e"]
+
+[ext_resource type="Texture2D" uid="uid://cp0wirsxffdep" path="res://World/L3C_Christmasfactory_interieur_2d_pixelaret_background_3ffd0527-2c5c-4547-afa0-fb46a0605013.png" id="1_cjq32"]
+
+[sub_resource type="GDScript" id="GDScript_645sc"]
+script/source = "extends ParallaxBackground
+
+
+var scrolling_speed = 100
+
+func _process(delta):
+	scroll_offset.x -= scrolling_speed * delta
+"
+
+[node name="BG" type="ParallaxBackground"]
+scroll_offset = Vector2(1, 1)
+script = SubResource("GDScript_645sc")
+
+[node name="Bg" type="ParallaxLayer" parent="."]
+motion_mirroring = Vector2(3392, 0)
+
+[node name="Bg 1" type="Sprite2D" parent="Bg"]
+position = Vector2(1682, 1348)
+scale = Vector2(0.593384, 0.801016)
+texture = ExtResource("1_cjq32")
+
+[node name="BgRota" type="Sprite2D" parent="Bg"]
+position = Vector2(10124, 1327)
+scale = Vector2(1.13762, 0.798377)
+texture = ExtResource("1_cjq32")

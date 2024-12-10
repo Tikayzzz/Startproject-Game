@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_11"
+type="Resource"
+uid="uid://bowolug0bhxus"
+path="res://.godot/imported/presentPickup.dialogue-fb22296043a293c1ac958ad1b3bd4325.tres"
+
+[deps]
+
+source_file="res://Dialogues/Interactions/presentPickup.dialogue"
+dest_files=["res://.godot/imported/presentPickup.dialogue-fb22296043a293c1ac958ad1b3bd4325.tres"]
+
+[params]
+
+defaults=true
